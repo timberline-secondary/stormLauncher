@@ -38,7 +38,7 @@ import sys
 import time
 import pygame
 import usb.core
-from Tkinter import *
+from tkinter import *
 from PIL import Image, ImageTk
 
 wavFile  = "warcry.wav"

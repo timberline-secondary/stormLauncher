@@ -1,5 +1,21 @@
 ![](https://github.com/nmilford/stormLauncher/raw/master/stormLauncher.png)
 
+# Instructions
+
+Tested on Ubuntu 16.04
+
+### Setup
+
+This will create a python virtual environment and install dependancies to it, so the launch script works
+
+`bash setup.sh`
+
+### Run it
+
+`sudo bash launch.sh`
+
+
+
 # Storm Launcher
 
 Controls the Dream Cheeky [O.I.C Storm](http://www.dreamcheeky.com/storm-oic-missile-launcher) & [Thunder](http://www.dreamcheeky.com/thunder-missile-launcher) USB Missile Launchers.  
