@@ -2,7 +2,7 @@
 
 # Instructions
 
-Tested on Ubuntu 16.04
+Tested on Ubuntu 20.04
 
 ### Setup
 
